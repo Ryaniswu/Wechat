@@ -1,0 +1,21 @@
+{
+  "name": "class_score_node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "koa-send": "^5.0.0",
+    "koa-session": "^5.9.0",
+    "log4js": "^3.0.5",
+    "mysql2": "^1.6.1",
+    "redis": "^2.8.0"
+  }
+}
